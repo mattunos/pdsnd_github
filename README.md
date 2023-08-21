@@ -9,7 +9,7 @@ Include the date you created this project and README file.
 The bikeshare data analysis project allows users to analyse bikeshare statistics such as most popular to/from trip for one of three cities (Chicago, New York or Washington) for a month/s or day/s of their choosing
 
 ### Files used
-Include the files used
+The bikeshare.ipynb code file uses 3 csv data files as its input
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
