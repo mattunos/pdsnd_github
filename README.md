@@ -12,5 +12,5 @@ The bikeshare data analysis project allows users to analyse bikeshare statistics
 The bikeshare.ipynb code file uses 3 csv data files as its input
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The completion of the project was inspired by numerous blogs on stackoverflow as well as the Udactiy Knowledge forum.
 
