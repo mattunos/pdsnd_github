@@ -6,7 +6,7 @@ Include the date you created this project and README file.
 ### Bikshare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare data analysis project allows users to analyse bikeshare statistics such as most popular to/from trip for one of three cities (Chicago, New York or Washington) for a month/s or day/s of their choosing
 
 ### Files used
 Include the files used
