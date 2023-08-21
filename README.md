@@ -14,3 +14,5 @@ The bikeshare.ipynb code file uses 3 csv data files as its input
 ### Credits
 The completion of the project was inspired by numerous blogs on stackoverflow as well as the Udactiy Knowledge forum.
 
+### Contributing
+We encourage programmers to contribute to the improvement of code in this project
